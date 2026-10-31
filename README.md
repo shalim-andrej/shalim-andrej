@@ -3,6 +3,7 @@
 Веб-разработчик и дизайнер. Создаю сайты под ключ на любых платформах (OpenCart, WordPress, uCoz, Site Look).
 
 ### 🚀 Мои проекты:
+* 🎧 **[Аудиотека PRO — Аудиокниги онлайн](https://audioteka-pro.ru/)** — Каталог аудиокниг под литрес, фоновое воспроизведение, установка как приложение (PWA). Стек: Next.js 16, Tailwind CSS, Neon PostgreSQL. [Репозиторий](https://github.com/shalim-andrej/audioteka)
 - 🛒 **[Интернет-магазин «Рисунок-портрет»](https://рисунок-портрет.рф)** — OpenCart, интеграция платежей и доставки.
 - 🌲 **[SEO-портал «Москва за МКАД»](https://mkad.ucoz.net/)** — Многостраничный проект с микроразметкой и аналитикой.
 - * **[«Мои финансы Premium»](https://shalim-andrej.github.io/finance-tracker-premium/)** — Веб-приложение для учёта личных финансов с облачной синхронизацией, интерактивными графиками и PWA-поддержкой. Стек: JavaScript, Firebase, Chart.js. [GitHub](https://github.com/shalim-andrej/finance-tracker-premium)
