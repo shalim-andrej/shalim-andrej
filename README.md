@@ -1,17 +1,49 @@
-# Привет! Я Андрей 👋
-Веб-разработчик и дизайнер. Создаю сайты под ключ на любых платформах (OpenCart, WordPress, uCoz, Site Look).
-### 🚀 Мои проекты:
-- 🎧 **[Аудиотека PRO — Аудиокниги онлайн](https://audioteka-pro.ru/)** — Каталог аудиокниг под литрес, фоновое воспроизведение, установка как приложение (PWA). Стек: Next.js 16, Tailwind CSS, Neon PostgreSQL. [Репозиторий](https://github.com/shalim-andrej/audioteka)
-- 🛒 **[Интернет-магазин «Рисунок-портрет»](https://рисунок-портрет.рф)** — OpenCart, интеграция платежей и доставки.
-- 🌲 **[SEO-портал «Москва за МКАД»](https://mkad.ucoz.net/)** — Многостраничный проект с микроразметкой и аналитикой.
-- 💰 **[«Мои финансы Premium»](https://shalim-andrej.github.io/finance-tracker-premium/)** — Веб-приложение для учёта личных финансов с облачной синхронизацией, интерактивными графиками и PWA-поддержкой. Стек: JavaScript, Firebase, Chart.js. [GitHub](https://github.com/shalim-andrej/finance-tracker-premium)
-- 🎬 **[«Кинотека React»](https://shalim-andrej.github.io/kinoteka-react/)** — SPA-приложение для поиска фильмов (Кинопоиск API). Включает авторизацию через Google, облачное избранное (Firestore), TypeScript, анимации и продвинутую фильтрацию. [Исходный код](https://github.com/shalim-andrej/kinoteka-react)
-- 🚗 **[TORQUE — сайт автосервиса](https://torque-autoservice-ssrd.vercel.app)** — демонстрационный лендинг на Next.js и React. 11 секций, адаптивный дизайн, услуги, прайс, FAQ и демо-форма заявки. [Исходный код](https://github.com/shalim-andrej/torque-autoservice)
-- 🌴 **[TROPICA — путешествия в тропики](https://tropica-travel.vercel.app)** — многостраничный сайт (4 страницы) из серии портфолио для Kwork: главная с видео-обложкой, каталог направлений с фильтрами по типу отдыха и сезону, страница путешествия с программой по дням и галереей, форма заявки. Стек: HTML, CSS, JavaScript. [Исходный код](https://github.com/shalim-andrej/tropica-travel)
-- 🚆 **[«Москва за МКАД» — лендинг канала в MAX](https://shalim-andrej.github.io/mkad-landing-new/)** — премиум-лендинг для канала о поездках выходного дня без машины: Сергиев Посад, Коломна, Звенигород, FAQ и кнопки подписки прямо на канал. Хвойно-янтарная палитра, локальные шрифты, адаптив. Стек: HTML, CSS, JavaScript. [Исходный код](https://github.com/shalim-andrej/mkad-landing-new)
-- 🏠 **[Тёплый угол — студия дизайна интерьеров](https://interior-studio-kappa.vercel.app)** — двухстраничный сайт (главная + кейс квартиры) из серии портфолио для Kwork: услуги с ценами, портфолио работ, процесс по шагам, материалы, страница кейса с задачей, решениями, планировкой и результатом, демо-форма заявки. Адаптивный дизайн, анимации при прокрутке, локальные шрифты. Стек: HTML, CSS, JavaScript. [Исходный код](https://github.com/shalim-andrej/interior-studio)
-- 💈 **[Бритва и латунь — сайт барбершопа](https://barbershop-beige-eight.vercel.app)** — двухстраничный сайт (главная + кейс клиента) из серии портфолио для Kwork: услуги с ценами, мастера, работы, процесс по шагам, форма записи + кейс с фото «до/после», решениями, таймлайном визита по минутам и инструментами. Графитово-латунная палитра, анимации при прокрутке, локальные шрифты. Стек: HTML, CSS, JavaScript. [Исходный код](https://github.com/shalim-andrej/barbershop)
-### 📫 Контакты:
-- **MAX:** [Написать мне в MAX](https://max.ru/u/f9LHodD0cOJBRaZ8GJWunzGIUerG6ygNTVLM2AKE2ixlq_bGiPGiww5P0kw)
-- **Почта:** shalim.andrej@mail.ru
-- **Телефон:** +7 992 207-11-99
+# Андрей Шалимов
+
+Веб-разработчик. Собираю сайты под ключ — от быстрых бизнес-лендингов до премиальных концептов с видео-обложками и кастомной анимацией. Без конструкторов: чистый HTML, CSS и JavaScript, плюс SEO-база в каждом проекте.
+
+- **Сайты под ключ** — структура, вёрстка, адаптив, формы, деплой
+- **Автоматизация бизнеса** — Telegram-боты, интеграции AmoCRM и SMS-шлюзов
+- **Работа с видео** — Python, OpenCV, ffmpeg: удаление объектов из кадра, восстановление фона, стабилизация
+
+## Премиум-концепты
+
+Пять одностраничников, у каждого — собственная архитектура, сетка и визуальный язык. Общий элемент один: видео-обложка в первом экране.
+
+| Проект | Ниша | Демо |
+|---|---|---|
+| **NOIR** | авторский ресторан | [открыть](https://shalim-andrej.github.io/noir/) |
+| **AURUM** | бутик-отель 5★ в Сочи | [открыть](https://shalim-andrej.github.io/aurum/) |
+| **MERIDIAN°** | резиденции бизнес-класса у Москва-Сити | [открыть](https://shalim-andrej.github.io/meridian/) |
+| **APEX** | премиум фитнес-клуб, 24/7 | [открыть](https://shalim-andrej.github.io/apex/) |
+| **NEBULA®** | digital-агентство | [открыть](https://shalim-andrej.github.io/nebula/) |
+
+Внутри: glassmorphism-панели на `backdrop-filter`, параллакс-слои, reveal-анимации на IntersectionObserver, fluid-типографика на `clamp()`, Open Graph-разметка. Ноль библиотек — все эффекты написаны на vanilla JS с нуля.
+
+## Бизнес-сайты
+
+Одностраничники под конкретную задачу: оффер в заголовке, короткая воронка, форма заявки.
+
+| Проект | Ниша | Демо |
+|---|---|---|
+| **Пион и лаванда** | студия цветов, доставка за час | [открыть](https://shalim-andrej.github.io/cvety-pion-i-lavanda/) |
+| **Дом и порядок** | домашний мастер: электрика, сантехника, мебель | [открыть](https://shalim-andrej.github.io/dom-i-poryadok/) |
+| **Атлант** | фитнес-клуб: тренажёрный зал, кроссфит, бокс | [открыть](https://shalim-andrej.github.io/fitnes-atlant/) |
+| **Зерно и пар** | кофейня спешелти-кофе | [открыть](https://shalim-andrej.github.io/kofeynya-zerno-i-par/) |
+| **Дента-Люкс** | стоматология, гарантия 3 года | [открыть](https://shalim-andrej.github.io/stomatologiya-denta-lyuks/) |
+
+## Технологии
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
+
+## Контакты
+
+- GitHub: [@shalim-andrej](https://github.com/shalim-andrej)
+- Заказать сайт: [Kwork](ССЫЛКА_НА_ПРОФИЛЬ_KWORK)
