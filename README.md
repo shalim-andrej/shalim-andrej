@@ -18,6 +18,7 @@
 | Проект | Ниша | Смотреть |
 |---|---|---|
 | **Рисунок-портрет** | Интернет-магазин на OpenCart 3, онлайн-оплата | [Сайт](https://рисунок-портрет.рф) · [Код](https://github.com/shalim-andrej/portrait-shop-opencart) |
+| **OPALIA** | Косметика и ароматы — фильтры, корзина, чекаут, юрпакет 152-ФЗ | [Сайт](https://shalim-andrej.github.io/opalia/) · [Код](https://github.com/shalim-andrej/opalia) |
 | **VANTA** | Электроника и гаджеты | [Сайт](https://shalim-andrej.github.io/vanta/) · [Код](https://github.com/shalim-andrej/vanta) |
 | **AURELIA** | Ювелирные украшения | [Сайт](https://shalim-andrej.github.io/aurelia/) · [Код](https://github.com/shalim-andrej/aurelia) |
 | **VESTIAIRE** | Премиальная одежда | [Сайт](https://shalim-andrej.github.io/vestiaire/) · [Код](https://github.com/shalim-andrej/vestiaire) |
