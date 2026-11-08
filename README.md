@@ -1,79 +1,64 @@
-# Андрей Шалимов
+# Привет! Я Андрей 👋
 
-Веб-разработчик. Собираю сайты под ключ — от быстрых бизнес-лендингов до премиальных концептов с видео-обложками и кастомной анимацией, плюс веб-приложения на React и Next.js. Без конструкторов: чистый код, SEO-база и деплой в каждом проекте.
+**Веб-разработчик и дизайнер.** Делаю сайты и интернет-магазины под ключ: от премиум-лендингов в эстетике quiet luxury до e-commerce с онлайн-оплатой и доставкой.
 
-- **Сайты под ключ** — структура, вёрстка, адаптив, формы, деплой
-- **Веб-приложения** — React, Next.js, TypeScript: SPA с поиском, авторизацией и базами данных
-- **E-commerce** — интернет-магазины на OpenCart: от установки до боевого домена
-- **Автоматизация бизнеса** — Telegram-боты, интеграции AmoCRM и SMS-шлюзов
-- **Работа с видео** — Python, OpenCV, ffmpeg: удаление объектов из кадра, восстановление фона, стабилизация
+### Что я делаю
 
-## Премиум-концепты
+- 🛒 **Интернет-магазины** — OpenCart 3, витрины на чистом JS: оплата, доставка, фильтры, SEO
+- 💎 **Премиум-лендинги** — glassmorphism, параллакс, анимации на IntersectionObserver, clamp()-типографика
+- 🏢 **Бизнес-сайты** — стоматологии, кофейни, автосервисы, фитнес: структура, запись, заявки
+- ⚡ **Веб-приложения** — React / Next.js / TypeScript, PostgreSQL, PWA
+- 🔍 **SEO-гигиена** — Schema.org, Open Graph, sitemap, robots, Яндекс.Вебмастер и Search Console
+- 🤖 **Автоматизация** — Telegram-боты, AmoCRM, интеграции
 
-Пять одностраничников, у каждого — собственная архитектура, сетка и визуальный язык. Общий элемент один: видео-обложка в первом экране.
+---
 
-| Проект | Ниша | Демо |
+### 🛒 Магазины
+
+| Проект | Ниша | Смотреть |
 |---|---|---|
-| **NOIR** | авторский ресторан | [открыть](https://shalim-andrej.github.io/noir/) |
-| **AURUM** | бутик-отель 5★ в Сочи | [открыть](https://shalim-andrej.github.io/aurum/) |
-| **MERIDIAN°** | резиденции бизнес-класса у Москва-Сити | [открыть](https://shalim-andrej.github.io/meridian/) |
-| **APEX** | премиум фитнес-клуб, 24/7 | [открыть](https://shalim-andrej.github.io/apex/) |
-| **NEBULA®** | digital-агентство | [открыть](https://shalim-andrej.github.io/nebula/) |
+| **Рисунок-портрет** | Интернет-магазин на OpenCart 3, онлайн-оплата | [Сайт](https://рисунок-портрет.рф) · [Код](https://github.com/shalim-andrej/portrait-shop-opencart) |
+| **VANTA** | Электроника и гаджеты | [Сайт](https://shalim-andrej.github.io/vanta/) · [Код](https://github.com/shalim-andrej/vanta) |
+| **AURELIA** | Ювелирные украшения | [Сайт](https://shalim-andrej.github.io/aurelia/) · [Код](https://github.com/shalim-andrej/aurelia) |
+| **VESTIAIRE** | Премиальная одежда | [Сайт](https://shalim-andrej.github.io/vestiaire/) · [Код](https://github.com/shalim-andrej/vestiaire) |
 
-Внутри: glassmorphism-панели на `backdrop-filter`, параллакс-слои, reveal-анимации на IntersectionObserver, fluid-типографика на `clamp()`, Open Graph-разметка. Ноль библиотек — все эффекты написаны на vanilla JS с нуля.
+### 💎 Премиум-концепты
 
-## Бизнес-сайты
-
-Одностраничники под конкретную задачу: оффер в заголовке, короткая воронка, форма заявки.
-
-| Проект | Ниша | Демо |
+| Проект | Ниши | Смотреть |
 |---|---|---|
-| **Пион и лаванда** | студия цветов, доставка за час | [открыть](https://shalim-andrej.github.io/cvety-pion-i-lavanda/) |
-| **Дом и порядок** | домашний мастер: электрика, сантехника, мебель | [открыть](https://shalim-andrej.github.io/dom-i-poryadok/) |
-| **Атлант** | фитнес-клуб: тренажёрный зал, кроссфит, бокс | [открыть](https://shalim-andrej.github.io/fitnes-atlant/) |
-| **Зерно и пар** | кофейня спешелти-кофе | [открыть](https://shalim-andrej.github.io/kofeynya-zerno-i-par/) |
-| **Дента-Люкс** | стоматология, гарантия 3 года | [открыть](https://shalim-andrej.github.io/stomatologiya-denta-lyuks/) |
-| **Москва за МКАД** | контент-лендинг маршрутов выходного дня, воронка в канал в MAX | [открыть](https://shalim-andrej.github.io/mkad-landing-new/) |
+| **NOIR** | Авторский ресторан | [Сайт](https://shalim-andrej.github.io/noir/) · [Код](https://github.com/shalim-andrej/noir) |
+| **AURUM** | Бутик-отель 5★ (Сочи) | [Сайт](https://shalim-andrej.github.io/aurum/) · [Код](https://github.com/shalim-andrej/aurum) |
+| **MERIDIAN°** | Резиденции бизнес-класса | [Сайт](https://shalim-andrej.github.io/meridian/) · [Код](https://github.com/shalim-andrej/meridian) |
+| **APEX** | Фитнес-клуб 24/7 | [Сайт](https://shalim-andrej.github.io/apex/) · [Код](https://github.com/shalim-andrej/apex) |
+| **NEBULA®** | Digital-агентство | [Сайт](https://shalim-andrej.github.io/nebula/) · [Код](https://github.com/shalim-andrej/nebula) |
 
-## Веб-приложения
+### 🏢 Бизнес-сайты и приложения
 
-React, Next.js и TypeScript: SPA с реальной логикой — поиск, API, база данных, офлайн-режим.
-
-| Проект | Что внутри | Ссылка |
+| Проект | Что это | Смотреть |
 |---|---|---|
-| **Мои финансы Premium** | учёт доходов и расходов: облачная синхронизация, графики по категориям, PWA | [открыть](https://shalim-andrej.github.io/finance-tracker-premium/) |
-| **Кинотека** | React + TypeScript: поиск фильмов и сериалов по API Кинопоиска | [открыть](https://shalim-andrej.github.io/kinoteka-react/) |
-| **Кинотека Next** | Next.js 16: поиск фильмов, трейлеры, избранное | [открыть](https://next-cinema-5ix5.vercel.app/) |
-| **Аудиотека PRO** | Next.js: каталог аудиокниг с онлайн-плеером, поиск, фильтры по жанрам | [открыть](https://audioteka-pro.ru) |
+| **Аудиотека PRO** | Онлайн-библиотека аудиокниг, Next.js + PostgreSQL, PWA | [Сайт](https://audioteka-pro.ru) · [Код](https://github.com/shalim-andrej/audioteka) |
+| **AXION Auto** | Сайт автосервиса, Next.js 15 | [Сайт](https://axion-site-coral.vercel.app) · [Код](https://github.com/shalim-andrej/axion-site) |
+| **TORQUE** | Сайт автосервиса | [Сайт](https://torque-autoservice.vercel.app) · [Код](https://github.com/shalim-andrej/torque-autoservice) |
+| **Дента-Люкс** | Стоматология | [Сайт](https://shalim-andrej.github.io/stomatologiya-denta-lyuks) · [Код](https://github.com/shalim-andrej/stomatologiya-denta-lyuks) |
+| **Зерно и пар** | Спешелти-кофейня | [Сайт](https://shalim-andrej.github.io/kofeynya-zerno-i-par) · [Код](https://github.com/shalim-andrej/kofeynya-zerno-i-par) |
+| **Атлант** | Фитнес-клуб | [Сайт](https://shalim-andrej.github.io/fitnes-atlant) · [Код](https://github.com/shalim-andrej/fitnes-atlant) |
+| **Пион и лаванда** | Студия цветов | [Сайт](https://shalim-andrej.github.io/cvety-pion-i-lavanda) · [Код](https://github.com/shalim-andrej/cvety-pion-i-lavanda) |
+| **Дом и порядок** | Домашний мастер | [Сайт](https://shalim-andrej.github.io/dom-i-poryadok) · [Код](https://github.com/shalim-andrej/dom-i-poryadok) |
+| **Тёплый угол** | Студия дизайна интерьеров | [Сайт](https://interior-studio-kappa.vercel.app) · [Код](https://github.com/shalim-andrej/interior-studio) |
+| **Бритва и латунь** | Барбершоп | [Сайт](https://barbershop-beige-eight.vercel.app) · [Код](https://github.com/shalim-andrej/barbershop) |
+| **TROPICA** | Путешествия в тропики, 4 страницы | [Сайт](https://tropica-travel.vercel.app) · [Код](https://github.com/shalim-andrej/tropica-travel) |
+| **Москва за МКАД** | SEO-портал, Schema.org | [Сайт](https://mkad.ucoz.net) · [Код](https://github.com/shalim-andrej/mkad-landing) |
+| **Мои финансы Premium** | Учёт финансов, Firebase + Chart.js, PWA | [Сайт](https://shalim-andrej.github.io/finance-tracker-premium) · [Код](https://github.com/shalim-andrej/finance-tracker-premium) |
+| **Кинотека** | SPA-поиск фильмов, TypeScript + Firestore | [Код](https://github.com/shalim-andrej/kinoteka-react) |
 
-## Магазины и отраслевые сайты
+---
 
-| Проект | Что внутри | Ссылка |
-|---|---|---|
-| **Рисунок-портрет** | действующий интернет-магазин портретов ручной работы на OpenCart 3 | [сайт](https://рисунок-портрет.рф) |
-| **TORQUE** | сайт автосервиса на Next.js и React | [открыть](https://torque-autoservice-ssrd.vercel.app) |
-| **TROPICA** | авторские путешествия: многостраничник с видео-обложкой и каталогом с фильтрами | [код](https://github.com/shalim-andrej/tropica-travel) |
-| **Бритва и латунь** | барбершоп: мужские стрижки, оформление бороды, королевское бритьё | [код](https://github.com/shalim-andrej/barbershop) |
-| **Тёплый угол** | студия дизайна интерьеров: концепция, планировка, дизайн-проект | [код](https://github.com/shalim-andrej/interior-studio) |
+### 🔧 Технологии
 
-Ссылка «код» — исходники открыты в репозитории, демо подключается на GitHub Pages за минуту.
+`Next.js` `React` `TypeScript` `OpenCart 3` `WordPress` `JavaScript` `HTML/CSS` `PostgreSQL` `Firebase` `Tailwind CSS` `Schema.org` `Python` `OpenCV` `ffmpeg`
 
-## Технологии
+### 📫 Контакты
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![OpenCart](https://img.shields.io/badge/OpenCart-23A1D1?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
-
-## Контакты
-
-- GitHub: [@shalim-andrej](https://github.com/shalim-andrej)
-- Заказать сайт: [Kwork](ССЫЛКА_НА_ПРОФИЛЬ_KWORK)
+- 💬 **MAX:** [Написать мне](https://max.ru/id591002056026_biz2)
+- ✉️ **Почта:** shalim.andrej@mail.ru
+- 🤝 **Заказать сайт:** [Kwork]()
