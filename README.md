@@ -38,7 +38,7 @@
 | Проект | Что это | Смотреть |
 |---|---|---|
 | **Аудиотека PRO** | Онлайн-библиотека аудиокниг, Next.js + PostgreSQL, PWA | [Сайт](https://audioteka-pro.ru) · [Код](https://github.com/shalim-andrej/audioteka) |
-| **AXION Auto** | Сайт автосервиса, Next.js 15 | [Сайт](https://axion-site-coral.vercel.app) · [Код](https://github.com/shalim-andrej/axion-site) |
+| **AXION Auto** | Сайт автосервиса, Next.js 15 | [Сайт](https://axion-site.layero.app) · [Код](https://github.com/shalim-andrej/axion-site) |
 | **TORQUE** | Сайт автосервиса | [Сайт](https://torque-autoservice.vercel.app) · [Код](https://github.com/shalim-andrej/torque-autoservice) |
 | **Дента-Люкс** | Стоматология | [Сайт](https://shalim-andrej.github.io/stomatologiya-denta-lyuks) · [Код](https://github.com/shalim-andrej/stomatologiya-denta-lyuks) |
 | **Зерно и пар** | Спешелти-кофейня | [Сайт](https://shalim-andrej.github.io/kofeynya-zerno-i-par) · [Код](https://github.com/shalim-andrej/kofeynya-zerno-i-par) |
@@ -50,7 +50,7 @@
 | **TROPICA** | Путешествия в тропики, 4 страницы | [Сайт](https://tropica-travel.vercel.app) · [Код](https://github.com/shalim-andrej/tropica-travel) |
 | **Москва за МКАД** | SEO-портал, Schema.org | [Сайт](https://mkad.ucoz.net) · [Код](https://github.com/shalim-andrej/mkad-landing) |
 | **Мои финансы Premium** | Учёт финансов, Firebase + Chart.js, PWA | [Сайт](https://shalim-andrej.github.io/finance-tracker-premium) · [Код](https://github.com/shalim-andrej/finance-tracker-premium) |
-| **Кинотека** | SPA-поиск фильмов, TypeScript + Firestore | [Код](https://github.com/shalim-andrej/kinoteka-react) |
+| **Кинотека (Next Cinema)** | Каталог фильмов, Next.js 16 + TypeScript, PWA | [Сайт](https://next-cinema-5ix5.vercel.app) · [Код](https://github.com/shalim-andrej/next-cinema) |
 
 ---
 
